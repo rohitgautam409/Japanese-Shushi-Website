@@ -5,7 +5,7 @@ Welcome to the Japanese Sushi Website repository! This project is a responsive w
 ## Live Deployment
 
 Check out the live deployment of the Japanese Sushi Website:
-[Japanese Sushi Website](japanese-shushi-website.vercel.app)
+(japanese-shushi-website.vercel.app)
 
 
 ## Features
@@ -26,4 +26,4 @@ To run this website locally on your machine, follow these steps:
 
 Enjoy exploring the delectable world of Japanese sushi! If you have any questions or feedback, please don't hesitate to reach out.
 
-[Website Link](japanese-shushi-website.vercel.app)
+(japanese-shushi-website.vercel.app)
